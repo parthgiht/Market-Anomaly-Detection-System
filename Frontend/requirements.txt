@@ -1,0 +1,22 @@
+# Streamlit Dashboard Requirements
+# Install with: pip install -r dashboard_requirements.txt
+
+# Core Framework
+streamlit==1.29.0
+
+# Data Processing
+pandas==2.1.4
+numpy==1.26.2
+
+# Visualization
+plotly==5.18.0
+
+# API Communication
+requests==2.31.0
+
+# Auto-refresh functionality
+streamlit-autorefresh==0.0.1
+
+# Optional: Enhanced components
+streamlit-aggrid==0.3.4
+streamlit-elements==0.1.0s

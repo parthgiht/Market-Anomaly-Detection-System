@@ -1,0 +1,24 @@
+{
+  "weights": {
+    "isolation_forest": 0.2,
+    "z_score": 0.1,
+    "xgboost": 0.3,
+    "lightgbm": 0.25,
+    "random_forest": 0.15
+  },
+  "optimal_threshold": 0.5999999999999999,
+  "alert_thresholds": {
+    "High": 70,
+    "Medium": 50,
+    "Low": 30
+  },
+  "performance": {
+    "detection_rate": 0.696969696969697,
+    "fpr": 0.00014119640419823975,
+    "precision": 0.8846153846153846,
+    "f1_score": 0.7796610169491526,
+    "roc_auc": 0.9493206527552552,
+    "pr_auc": 0.7471692729630944
+  },
+  "timestamp": "2026-01-26T00:15:25.919556"
+}
