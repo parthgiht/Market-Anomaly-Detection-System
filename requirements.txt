@@ -17,4 +17,4 @@ plotly
 fastapi
 uvicorn 
 pydantic 
-
+pydantic-settings
