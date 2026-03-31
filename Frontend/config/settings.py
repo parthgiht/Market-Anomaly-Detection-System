@@ -3,7 +3,7 @@ Dashboard Configuration Settings
 """
 
 # API Configuration
-API_BASE_URL = "https://backend-market-anomaly-detection.onrender.com"
+API_BASE_URL = "https://backend-market-anomaly-detection.onrender.com/api/v1"
 
 # Dashboard Settings
 APP_TITLE = "Market Anomaly Detection System"
