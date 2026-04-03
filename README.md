@@ -2,7 +2,7 @@ Market-Anomaly-Detection-System
 ==============================
 #### This is a Financial Fraud Detection and Market Surveillance System that monitors financial transactions in real-time to identify.
 ---
-![image_alt](https://github.com/ZethetaIntern/Market-Anomaly-Detection-System/blob/main/Anomaly%20detection.jpg?raw=true)
+
 ## 📋 Table of Contents
 
 - Overview
